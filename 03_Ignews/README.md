@@ -6,7 +6,7 @@
 
 <p>O projeto é um blog de notícias onde o usuário faz login utilizando o github, faz uma assinatura para acessar o conteúdo dos posts e consume o conteúdo. Na aplicação é feita autenticação utilizando o "next-auth", o sistema de pagamentos é com o Stripe e o gerenciamento de posts é feito através do prismic CMS.</p>
 
-<h2>Demonstração</h2/>
+<h2>Demonstração</h2>
   
   <div>
     <img width="400px" src="https://user-images.githubusercontent.com/86028187/159383016-67e19908-611e-40bf-81a7-1ace5ac4f893.png" alt="Ignews-01">
