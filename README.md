@@ -30,3 +30,18 @@ Ao longo do Ignite são desenvolvidos 6 projetos dos quais eu desenvolvi 5. Este
 
 ## Tecnologias
 
+- ReactJS
+- NextJS
+- TypeScript
+- SASS
+- MaterialUI
+- Yup
+- React-query
+- React-hook-forms
+- Faker
+- Styled-components
+- Mirage
+- CMS
+- FaunaDB
+- Nookies
+- ...
