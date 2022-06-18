@@ -1,6 +1,6 @@
 /* eslint-disable @next/next/no-img-element */
 import { SignInButton } from '../SignInButton/Index'
-import { ActiveLink } from '../ActiveLink/Index'
+import { ActiveLink } from '../ActiveLink'
 
 // ESTILOS
 import styles from './styles.module.scss'
